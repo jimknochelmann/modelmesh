@@ -21,7 +21,7 @@
   <artifactId>model-mesh</artifactId>
   <version>0.4.2-SNAPSHOT</version>
   <name>model-mesh framework</name>
-  <description>Model serving framework</description>
+  <description>Model serving framework testing whitesource</description>
 
   <licenses>
     <license>
@@ -506,6 +506,7 @@
         <version>${grpc-version}</version>
         <type>pom</type>
         <scope>import</scope>
+        
       </dependency>
     </dependencies>
   </dependencyManagement>
